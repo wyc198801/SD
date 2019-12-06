@@ -7,7 +7,7 @@
 
 
 #disribution channel
-##after define the disribution channel:
+###after define the disribution channel:
 * #####define materials and services master data
 * #####create and maintain customer master data
 * #####allow for complex pricing strategies
